@@ -26,7 +26,7 @@
 
 ### About me
 
-- 💻 Full-stack AI developer (frontend + backend + a bit of UI/UX)
+- 💻 Full-stack AI developer (frontend + backend)
 - 🏢 Worked with **Musharp**, **Mucsled Inc** (Shopify), and **PITC**
 - 🎓 BS Computer Science — Virtual University of Pakistan
 - 🎮 Also into games & staying fit
