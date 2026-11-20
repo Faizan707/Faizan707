@@ -91,7 +91,6 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Chroma](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant_DB-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005A9C?style=flat-square&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 </details>
