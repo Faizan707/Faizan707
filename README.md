@@ -80,7 +80,7 @@
 </details>
 
 <details open>
-<summary><strong>AI & ML</strong></summary>
+<summary><strong>AI</strong></summary>
 <br />
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -89,6 +89,7 @@
 ![Embeddings](https://img.shields.io/badge/Embeddings-6366F1?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Chroma](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant_DB-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005A9C?style=flat-square&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
