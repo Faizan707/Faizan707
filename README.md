@@ -5,13 +5,13 @@
 <div align="center">
 
   <!-- Typing-style header via SVG (no external JS) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+Faizan+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+modern+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+Faizan+%F0%9F%91%8B;Full-Stack+AI+Developer;Building+modern+web+%26+AI+apps" alt="Typing SVG" />
 
   <br /><br />
 
   <p>
-    <strong>Full-Stack Developer</strong> from Lahore, Pakistan<br />
-    I build clean, fast web apps — frontend to backend — with React, Next.js & Node.
+    <strong>Full-Stack AI Developer</strong> from Lahore, Pakistan<br />
+    I build clean, fast web apps — frontend to backend — with React, Next.js, Node & FastAPI.
   </p>
 
   <p>
@@ -26,7 +26,7 @@
 
 ### About me
 
-- 💻 Full-stack web developer (frontend + backend + a bit of UI/UX)
+- 💻 Full-stack AI developer (frontend + backend + a bit of UI/UX)
 - 🏢 Worked with **Musharp**, **Mucsled Inc** (Shopify), and **PITC**
 - 🎓 BS Computer Science — Virtual University of Pakistan
 - 🎮 Also into games & staying fit
@@ -106,20 +106,6 @@
 | **ShopPilot AI** | MERN e-commerce with TypeScript | [Repo](https://github.com/Faizan707/shoppilot-ai) |
 | **TaskFlow AI** | Kanban projects + role-based access + local AI assistant | [Repo](https://github.com/Faizan707/taskflow-ai) |
 | **TAVEROZA** | Shopify Liquid storefront | [Repo](https://github.com/Faizan707/taveroza-hydrogen) |
-
----
-
-### GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Faizan707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faizan's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan707&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan707&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
