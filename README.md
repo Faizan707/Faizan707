@@ -50,7 +50,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify_Hydrogen-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
 </details>
 
@@ -60,13 +60,29 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>AI & ML</strong></summary>
+<br />
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6366F1?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-005A9C?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 </details>
 
@@ -80,7 +96,7 @@
 | **OrgFlow** | Company org management — Express + MongoDB + Next.js | [Repo](https://github.com/Faizan707/OrgFlow) |
 | **ShopPilot AI** | MERN e-commerce with TypeScript | [Repo](https://github.com/Faizan707/shoppilot-ai) |
 | **TaskFlow AI** | Kanban projects + role-based access + local AI assistant | [Repo](https://github.com/Faizan707/taskflow-ai) |
-| **TAVEROZA** | Shopify Hydrogen storefront | [Repo](https://github.com/Faizan707/taveroza-hydrogen) |
+| **TAVEROZA** | Shopify Liquid storefront | [Repo](https://github.com/Faizan707/taveroza-hydrogen) |
 | **Portfolio** | Personal site — Next.js + Tailwind + Framer Motion | [Repo](https://github.com/Faizan707/portfolio) · [Live](https://portfolio-steel-psi-n1kdcsbevw.vercel.app/) |
 
 ---
@@ -101,9 +117,9 @@
 
 ### Currently
 
-- 🔭 Building full-stack products with **Next.js**, **TypeScript** & **Node**
-- 🌱 Exploring AI-assisted workflows and better DX
-- 💬 Ask me about **React**, **Next.js**, **Shopify Hydrogen**, or **MERN**
+- 🔭 Building full-stack products with **Next.js**, **TypeScript**, **FastAPI** & **Node**
+- 🌱 Exploring RAG pipelines, vector databases & AI-assisted workflows
+- 💬 Ask me about **React**, **Next.js**, **Shopify Liquid**, **FastAPI**, or **RAG**
 - ⚡ Fun fact: I ship apps *and* still make time for games & the gym
 
 ---
