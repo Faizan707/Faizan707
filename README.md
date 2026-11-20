@@ -15,7 +15,6 @@
   </p>
 
   <p>
-    <a href="https://portfolio-steel-psi-n1kdcsbevw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/faizan-butt-9b2897233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:faizanbutt707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.instagram.com/faizanbutt707/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -67,7 +66,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Tools & DevOps</strong></summary>
+<br />
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </details>
 
@@ -97,7 +105,6 @@
 | **ShopPilot AI** | MERN e-commerce with TypeScript | [Repo](https://github.com/Faizan707/shoppilot-ai) |
 | **TaskFlow AI** | Kanban projects + role-based access + local AI assistant | [Repo](https://github.com/Faizan707/taskflow-ai) |
 | **TAVEROZA** | Shopify Liquid storefront | [Repo](https://github.com/Faizan707/taveroza-hydrogen) |
-| **Portfolio** | Personal site — Next.js + Tailwind + Framer Motion | [Repo](https://github.com/Faizan707/portfolio) · [Live](https://portfolio-steel-psi-n1kdcsbevw.vercel.app/) |
 
 ---
 
